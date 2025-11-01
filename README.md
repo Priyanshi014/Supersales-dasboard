@@ -1,13 +1,16 @@
 # Supersales-dasboard
 🏪 Super Store Sales Dashboard
 1. Project Title / Headline
+
 📦 Super Store Sales Dashboard: Regional and Category Performance Insights
 A visually dynamic Power BI dashboard built to analyze store sales performance by region, category, sub-category, and payment methods—enabling efficient tracking of sales growth and profitability across multiple business dimensions.
 
 2. Short Description / Purpose
+
 The Super Store Sales Dashboard provides a comprehensive overview of sales and profit performance across years, regions, and product categories. It allows business managers and analysts to monitor key KPIs such as total sales, quantity sold, and profit, helping to identify growth patterns and evaluate operational efficiency over time.
 
 3. Tech Stack
+
 Developed using the following tools and technologies:
 
 📊 Power BI Desktop – Used for report building and interactive data visualization.
@@ -21,6 +24,7 @@ Developed using the following tools and technologies:
 📁 File Format – .pbix for dashboard creation, .csv for data import, .png for snapshots.
 
 4. Data Source
+
 Source: Sample Superstore dataset (commonly used for Power BI and Tableau projects).
 The dataset includes:
 
@@ -38,15 +42,18 @@ Profit and quantity metrics per product category and sub-category
 
 5. Features / Highlights
 • Business Problem
+
 Retail managers needed a consolidated way to monitor sales and profit performance across multiple regions and product categories. Without a central dashboard, tracking trends, identifying profitable segments, and assessing regional efficiency was time-consuming and fragmented.
 
 • Goal of the Dashboard
+
 To design an analytical and interactive Power BI dashboard that:
 Tracks total sales, profit, and quantity KPIs over time.
 Compares performance across customer segments, payment methods, and ship modes.
 Provides regional insights to support data-driven decision-making for marketing and logistics.
 
 • Walkthrough of Key Visuals
+
 Top KPIs (Center):
 
 Sum of Sales: 522.4K
